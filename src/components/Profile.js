@@ -7,9 +7,9 @@ import Blurb from "./Blurb"
 export default function Profile() {
     return (
         <div>
-            <ProfilePicture/>
-            <Title title={"Dan Borah"}/>
-            <Blurb/>
+            <ProfilePicture />
+            <Title title={"Dan Borah"} />
+            <Blurb />
         </div>
     )
 }
